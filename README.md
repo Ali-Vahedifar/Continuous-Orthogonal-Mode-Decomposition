@@ -108,8 +108,6 @@ print(info["recon_rel_error"], info["iterations"])
 
 ## Citation
 
-Fill in the venue and year once they are final:
-
 ```bibtex
 @misc{vahedifar2026continuousorthogonalmodedecomposition,
       title={Continuous Orthogonal Mode Decomposition: Haptic Signal Prediction in Tactile Internet}, 
