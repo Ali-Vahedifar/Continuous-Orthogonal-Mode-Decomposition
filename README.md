@@ -165,7 +165,3 @@ proposes a column mapping and prints what it couldn't resolve, so nothing is gue
 }
 ```
 
-The VMD baseline follows Dragomiretskiy & Zosso, *Variational Mode Decomposition*, IEEE TSP
-62(3), 2014 — reimplemented from the published update equations, not adapted from the authors'
-code. SVMD follows Nazari & Sakhaei, *Successive Variational Mode Decomposition*, Signal
-Processing 174:107610, 2020 (see the caveat above on what's literal vs. not).
